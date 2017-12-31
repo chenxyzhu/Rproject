@@ -12,3 +12,4 @@ sum(is.na(sales$Quant)&is.na(sales$Val))
 # 查看分类的情况
 table(sales$Insp)/nrow(sales)*100
 # 查看销售人员,商品对应的数据量
+uplaood
